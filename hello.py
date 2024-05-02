@@ -1,4 +1,4 @@
 def say_hi():
-    print('Hi, my name is <nome>.')
+    print('Hi, my name is Daniel.')
 
-__version__ = '0.1'
+__version__ = '0.2'
